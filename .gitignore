@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!readme.md
+
+# include a folder
+!wxWidgets-3.1.6_win32_x64_release
+!wxWidgets-3.1.6_win32_x64_release/**
+
+
